@@ -1,0 +1,15 @@
+C:\Users\administrator\Documents\GitHub\RestauranteC-POO\bin\Debug\net8.0\RestauranteC-POO.exe
+C:\Users\administrator\Documents\GitHub\RestauranteC-POO\bin\Debug\net8.0\RestauranteC-POO.deps.json
+C:\Users\administrator\Documents\GitHub\RestauranteC-POO\bin\Debug\net8.0\RestauranteC-POO.runtimeconfig.json
+C:\Users\administrator\Documents\GitHub\RestauranteC-POO\bin\Debug\net8.0\RestauranteC-POO.dll
+C:\Users\administrator\Documents\GitHub\RestauranteC-POO\bin\Debug\net8.0\RestauranteC-POO.pdb
+C:\Users\administrator\Documents\GitHub\RestauranteC-POO\obj\Debug\net8.0\RestauranteC-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\administrator\Documents\GitHub\RestauranteC-POO\obj\Debug\net8.0\RestauranteC-POO.AssemblyInfoInputs.cache
+C:\Users\administrator\Documents\GitHub\RestauranteC-POO\obj\Debug\net8.0\RestauranteC-POO.AssemblyInfo.cs
+C:\Users\administrator\Documents\GitHub\RestauranteC-POO\obj\Debug\net8.0\RestauranteC-POO.csproj.CoreCompileInputs.cache
+C:\Users\administrator\Documents\GitHub\RestauranteC-POO\obj\Debug\net8.0\RestauranteC-POO.sourcelink.json
+C:\Users\administrator\Documents\GitHub\RestauranteC-POO\obj\Debug\net8.0\RestauranteC-POO.dll
+C:\Users\administrator\Documents\GitHub\RestauranteC-POO\obj\Debug\net8.0\refint\RestauranteC-POO.dll
+C:\Users\administrator\Documents\GitHub\RestauranteC-POO\obj\Debug\net8.0\RestauranteC-POO.pdb
+C:\Users\administrator\Documents\GitHub\RestauranteC-POO\obj\Debug\net8.0\RestauranteC-POO.genruntimeconfig.cache
+C:\Users\administrator\Documents\GitHub\RestauranteC-POO\obj\Debug\net8.0\ref\RestauranteC-POO.dll
