@@ -1,5 +1,12 @@
-namespace RestauranteC_POO;
+using System.Collections.Generic;
 
-public abstract class Pedido{
+namespace RestauranteC_POO
+{
+    public abstract class Pedido
+    {
+        public string NumeroPedido { get; set; }
+        public List<Prato> Pratos { get; set; } = new List<Prato>();
 
+        public abstract decimal CalcularTotal();
+    }
 }
