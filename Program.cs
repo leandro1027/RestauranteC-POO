@@ -1,0 +1,14 @@
+﻿using System;
+using System.colleection.Generic;
+
+namespace RestauranteC_POO;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, World!");
+    }
+
+  
+}
