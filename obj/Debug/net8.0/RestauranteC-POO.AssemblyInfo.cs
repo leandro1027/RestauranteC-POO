@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RestauranteC-POO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03e91061db099cf99f32ffbba4ea2e851b8c1115")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adecbd67585f15a10723274dec115af7db7d50f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("RestauranteC-POO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RestauranteC-POO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

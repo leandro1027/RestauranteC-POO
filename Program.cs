@@ -8,7 +8,11 @@ Criar e processar pedidos (delivery e presencial).
 Exibir o total de um pedido, com detalhes sobre os pratos incluídos.
 */
 
-class Program
+
+public class Program
 {
-    
+static void Main(string[] args)
+{ 
+    Console.WriteLine(";");
+}
 }
