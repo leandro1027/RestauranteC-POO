@@ -2,7 +2,7 @@ using System.Collections.Generic;
 
 namespace RestauranteC_POO
 {
-    public class Restaurante : Estabelecimento
+    public class Restaurante : Estabelecimento //Restaurante herda de estabelecimento
     {
         public List<Prato> Cardapio { get; private set; } = new List<Prato>();
 
