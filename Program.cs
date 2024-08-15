@@ -179,7 +179,7 @@
             Console.WriteLine($"Total do pedido: {pedido.CalcularTotal():C}"); // Exibe o total do pedido formatado como moeda
         }
 
-        static void ExibirTotalPedido()
+        static void ExibirTotalPedido() 
         {
             Console.Write("Digite o número do pedido: ");
             string numeroPedido = Console.ReadLine();
